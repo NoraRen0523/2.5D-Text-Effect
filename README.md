@@ -1,2 +1,2 @@
-# HTML_CSS_Demo
+# 2.5D Text Effect
 Created with CodeSandbox
